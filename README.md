@@ -18,6 +18,10 @@ This is a Next.js project that serves as a patient queue announcement and regist
 - **Styling**: Tailwind CSS
 - **Language**: TypeScript
 
+## Database Structure
+
+![ERD](./ERD.svg)
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
