@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/:path*
+
+# Host
+Host: https://queue-app.id
+
+# Sitemaps
+Sitemap: https://queue-app.id/sitemap.xml
